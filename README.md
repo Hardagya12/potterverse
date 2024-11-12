@@ -14,4 +14,4 @@ List of features implemented:
 -Fan fiction upload
 -Character info through cards
 -Patronus Information
-
+-Edited something
